@@ -1,0 +1,3 @@
+[submodule "redis.submodule"]
+	path = redis.submodule
+	url = https://github.com/redis/redis
